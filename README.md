@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Front-end for outgassing by Bea.
 
 You can use the [editor on GitHub](https://github.com/NASADatanauts/BeaOutgassingdb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
